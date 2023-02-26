@@ -13,5 +13,8 @@
     "eslint": "^8.34.0",
     "husky": "^8.0.0",
     "nuxt": "^3.2.2"
+  },
+  "dependencies": {
+    "vue-toastification": "latest"
   }
 }
